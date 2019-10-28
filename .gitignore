@@ -1,0 +1,17 @@
+*.7z
+*.obj
+*.iobj
+*.log
+*.exe
+*.tlog
+*.dec
+*.enc
+*.pdb
+*.idb
+*.db
+*.key
+*.vcxproj
+*.vcxproj.filters
+*.ipdb
+*.ipch
+
